@@ -2,6 +2,8 @@ projeto_hdc_host
 
 Este é um projeto de interface web desenvolvido com HTML e CSS. O repositório contém arquivos estáticos que apresentam uma página principal com estilo visual definido em style.css e elementos gráficos como logo.png e banner.jpg.
 
+![Preview do projeto](hdc_host_projeto_foto.png)
+
 Estrutura
 
 O projeto inclui:
